@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PROJEKTI\\GIT\\GitTest\\GitTest\\GitTest.csproj": {}
+    "D:\\GitTest\\TestOA\\GitTest\\GitTest\\GitTest.csproj": {}
   },
   "projects": {
-    "E:\\PROJEKTI\\GIT\\GitTest\\GitTest\\GitTest.csproj": {
+    "D:\\GitTest\\TestOA\\GitTest\\GitTest\\GitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PROJEKTI\\GIT\\GitTest\\GitTest\\GitTest.csproj",
+        "projectUniqueName": "D:\\GitTest\\TestOA\\GitTest\\GitTest\\GitTest.csproj",
         "projectName": "GitTest",
-        "projectPath": "E:\\PROJEKTI\\GIT\\GitTest\\GitTest\\GitTest.csproj",
-        "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "E:\\PROJEKTI\\GIT\\GitTest\\GitTest\\obj\\",
+        "projectPath": "D:\\GitTest\\TestOA\\GitTest\\GitTest\\GitTest.csproj",
+        "packagesPath": "C:\\Users\\kiki\\.nuget\\packages\\",
+        "outputPath": "D:\\GitTest\\TestOA\\GitTest\\GitTest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\kiki\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
