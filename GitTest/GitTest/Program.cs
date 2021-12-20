@@ -5,5 +5,8 @@ Console.WriteLine("Treci commit");
 
 Console.WriteLine("Cetvrti commit");
 
+Console.WriteLine("Bla commit");
+
+Console.ReadKey();
 Console.ReadKey();
 Console.ReadKey();
