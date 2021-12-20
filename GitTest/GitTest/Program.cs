@@ -7,6 +7,8 @@ Console.WriteLine("Cetvrti commit");
 
 Console.WriteLine("Bla commit");
 
+Console.WriteLine("Bla commit 2");
+
 Console.ReadKey();
 Console.ReadKey();
 Console.ReadKey();
