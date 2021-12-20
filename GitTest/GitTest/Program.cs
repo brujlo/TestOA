@@ -3,4 +3,6 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Treci commit");
 
+Console.WriteLine("Cetvrti commit");
+
 Console.ReadKey();
